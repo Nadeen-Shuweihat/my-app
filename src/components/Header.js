@@ -7,7 +7,7 @@ class Header extends React.Component {
             h1 > Horn Beasts < /h1>
         )
     }
-}
+};
 
 
 export default Header;
